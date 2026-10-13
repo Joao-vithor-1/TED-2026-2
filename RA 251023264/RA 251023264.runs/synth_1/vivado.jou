@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2026.1 (64-bit)
+# SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+# IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+# SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+# Start of session at: Tue Oct 13 17:52:54 2026
+# Process ID         : 12328
+# Current directory  : E:/VIVADO_PROJECTS/RA 251023264/RA 251023264.runs/synth_1
+# Command line       : vivado.exe -log RA_251023264.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source RA_251023264.tcl
+# Log file           : E:/VIVADO_PROJECTS/RA 251023264/RA 251023264.runs/synth_1/RA_251023264.vds
+# Journal file       : E:/VIVADO_PROJECTS/RA 251023264/RA 251023264.runs/synth_1\vivado.jou
+# Running On         : DESKTOP-ODHGH0D
+# Platform           : Windows 10
+# Operating System   : 19045
+# Processor Detail   : AMD Ryzen 5 5600XT 6-Core Processor            
+# CPU Frequency      : 3693 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 17098 MB
+# Swap memory        : 3892 MB
+# Total Virtual      : 20990 MB
+# Available Virtual  : 5020 MB
+#-----------------------------------------------------------
+source RA_251023264.tcl -notrace
